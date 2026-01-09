@@ -21,8 +21,7 @@
 domain: taigua.github.io
 title: Taigua's little site
 email: corwin.dong@hotmail.com
-# description: >- # this means to ignore newlines until "baseurl:"
-#   Record what I have learned, what I have thought, and what I have felt.
+description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://taigua.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
